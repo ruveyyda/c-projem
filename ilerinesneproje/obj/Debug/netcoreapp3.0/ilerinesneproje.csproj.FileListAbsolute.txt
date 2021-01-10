@@ -1,0 +1,11 @@
+C:\Users\Rüveyda Çelebi\Desktop\ileri nesne prog proje\ilerinesneproje\ilerinesneproje\bin\Debug\netcoreapp3.0\ilerinesneproje.exe
+C:\Users\Rüveyda Çelebi\Desktop\ileri nesne prog proje\ilerinesneproje\ilerinesneproje\bin\Debug\netcoreapp3.0\ilerinesneproje.deps.json
+C:\Users\Rüveyda Çelebi\Desktop\ileri nesne prog proje\ilerinesneproje\ilerinesneproje\bin\Debug\netcoreapp3.0\ilerinesneproje.runtimeconfig.json
+C:\Users\Rüveyda Çelebi\Desktop\ileri nesne prog proje\ilerinesneproje\ilerinesneproje\bin\Debug\netcoreapp3.0\ilerinesneproje.runtimeconfig.dev.json
+C:\Users\Rüveyda Çelebi\Desktop\ileri nesne prog proje\ilerinesneproje\ilerinesneproje\bin\Debug\netcoreapp3.0\ilerinesneproje.dll
+C:\Users\Rüveyda Çelebi\Desktop\ileri nesne prog proje\ilerinesneproje\ilerinesneproje\bin\Debug\netcoreapp3.0\ilerinesneproje.pdb
+C:\Users\Rüveyda Çelebi\Desktop\ileri nesne prog proje\ilerinesneproje\ilerinesneproje\obj\Debug\netcoreapp3.0\ilerinesneproje.csprojAssemblyReference.cache
+C:\Users\Rüveyda Çelebi\Desktop\ileri nesne prog proje\ilerinesneproje\ilerinesneproje\obj\Debug\netcoreapp3.0\ilerinesneproje.AssemblyInfoInputs.cache
+C:\Users\Rüveyda Çelebi\Desktop\ileri nesne prog proje\ilerinesneproje\ilerinesneproje\obj\Debug\netcoreapp3.0\ilerinesneproje.AssemblyInfo.cs
+C:\Users\Rüveyda Çelebi\Desktop\ileri nesne prog proje\ilerinesneproje\ilerinesneproje\obj\Debug\netcoreapp3.0\ilerinesneproje.dll
+C:\Users\Rüveyda Çelebi\Desktop\ileri nesne prog proje\ilerinesneproje\ilerinesneproje\obj\Debug\netcoreapp3.0\ilerinesneproje.pdb
